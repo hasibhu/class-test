@@ -1,0 +1,30 @@
+*{
+    background-color: aliceblue;
+}
+
+h1{
+    text-align: center;
+    margin: 50px;
+    color: blue;
+}
+
+.login{
+    justify-content: center;
+    padding-top: 10px;
+    background-color: white;
+    text-align: center;
+
+    
+   
+}
+
+.loginbtn{
+    background-color: rgb(142, 142, 242);
+    color:white;
+    width: 150px;
+
+}
+
+.createbtn{
+    background-color: rgb(81, 205, 81);
+}
